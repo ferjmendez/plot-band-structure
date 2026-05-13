@@ -45,7 +45,7 @@ with customizable layouts and full **LaTeX rendering support** for mathematical 
 
 ## 📷 Example Output File
 
-![Example Figure](fatbands_dos_FeSe.png)
+![Example Figure](example_FeSe/fatbands_dos_FeSe.png)
 
 ---
 
